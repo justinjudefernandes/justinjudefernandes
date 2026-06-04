@@ -1,14 +1,10 @@
 # Hello, I'm Justin Jude Fernandes
 <a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am an experienced cybersecurity professional with 15+ years of expertise spanning Security Operations (SOC), Threat Detection, Incident Response, Vulnerability Management, Security Architecture, Governance, Risk and Compliance. Hands-on experience with LogRhythm SIEM, Palo Alto Cortex XSOAR, Tenable Nessus, EDR/NDR platforms, and enterprise security monitoring. Skilled in threat hunting, security automation, incident response, and implementing risk-based cybersecurity programs aligned with ISO 27001, NIST, and NESA frameworks.
+I am an IT and Cybersecurity professional with over 10 years of experience, including 7 years in Infrastructure and 3 years in Information Security. Currently working within a Security Operations Center (SOC), I am passionate about threat detection, incident response, security monitoring, and continuous learning in the cybersecurity domain. My infrastructure background provides a strong understanding of enterprise environments, networking, servers, and system administration, allowing me to approach security investigations with both operational and defensive perspectives.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To continuously develop my expertise in Security Operations, Threat Hunting, Detection Engineering, and Incident Response while contributing to the cybersecurity community through knowledge sharing, hands-on projects, and practical security research.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
