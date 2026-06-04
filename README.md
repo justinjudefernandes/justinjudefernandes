@@ -52,5 +52,5 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/justinjudefernandes/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
