@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an experienced cybersecurity professional with 15+ years of expertise spanning Security Operations (SOC), Threat Detection, Incident Response, Vulnerability Management, Security Architecture, Governance, Risk and Compliance. Hands-on experience with LogRhythm SIEM, Palo Alto Cortex XSOAR, Tenable Nessus, EDR/NDR platforms, and enterprise security monitoring. Skilled in threat hunting, security automation, incident response, and implementing risk-based cybersecurity programs aligned with ISO 27001, NIST, and NESA frameworks.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
