@@ -7,7 +7,6 @@ I am an IT and Cybersecurity professional with over 15 years of experience, incl
 To continuously develop my expertise in Security Operations, Threat Hunting, Detection Engineering, and Incident Response while contributing to the cybersecurity community through knowledge sharing, hands-on projects, and practical security research.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
