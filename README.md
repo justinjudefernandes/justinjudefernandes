@@ -10,7 +10,7 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC-Threat-Hunting-with-Microsoft-Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
+| SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
