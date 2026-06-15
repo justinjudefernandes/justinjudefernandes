@@ -46,5 +46,4 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 </div>
 
 ## Projects
-- <a href="https://github.com/justinjudefernandes/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">SOC Threat Hunting with Microsoft Sentinel</a>|
