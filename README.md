@@ -20,11 +20,11 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 
 ### Microsoft Security Stack
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Defender%20for%20Office%20365-0078D4?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Intune-5E5E5E?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-B71C1C?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-1B5E20?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Defender%20for%20Office%20365-E65100?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Intune-0D47A1?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-4A148C?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ### Endpoint
