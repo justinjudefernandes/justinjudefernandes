@@ -7,12 +7,12 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Projects                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
-| Email Security & Phishing Analysis in Microsoft Defender          | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">View Project</a>|
-| Attack Emulation and SOC Investigation Using Microsoft Security Tools         | <a href="https://github.com/justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools/">View Project</a>|
-| Phishing-Led Multi-Stage Attack Simulation and End-to-End SOC Investigation        | <a href="https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation/blob/main/README.md/">View Project</a>|
+| SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">Explore Project</a>|
+| Email Security & Phishing Analysis in Microsoft Defender          | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">Explore Project</a>|
+| Attack Emulation and SOC Investigation Using Microsoft Security Tools         | <a href="https://github.com/justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools/">Explore Project</a>|
+| Phishing-Led Multi-Stage Attack Simulation and End-to-End SOC Investigation        | <a href="https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation/blob/main/README.md/">Explore Project</a>|
 
 ## Tools
 
