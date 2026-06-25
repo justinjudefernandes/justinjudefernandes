@@ -85,11 +85,12 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
     <img src="https://img.shields.io/badge/-CISA-1565C0?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-SOC%20Analyst-6A1B9A?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Network%20Defender-00897B?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-AWS%20SAA-FF9900?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Azure%20Admin-0078D4?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-FF9900?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Azure%20Administrator-0078D4?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-VMware%20VCP-607078?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-MCSA%202012-0078D6?&style=for-the-badge" />
 </div>
+
 
 <a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
