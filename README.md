@@ -1,4 +1,4 @@
-# Hello, I'm Justin Fernandes
+# Hello, I'm Justin Fernandes                <a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT and Cybersecurity professional with over 15 years of experience, including 10 years in Infrastructure and 5 years in Information Security. Currently working within a Security Operations Center (SOC), I am passionate about threat detection, incident response, security monitoring, and continuous learning in the cybersecurity domain. My infrastructure background provides a strong understanding of enterprise environments, networking, servers, and system administration, allowing me to approach security investigations with both operational and defensive perspectives.
 
@@ -90,7 +90,4 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
     <img src="https://img.shields.io/badge/-VMware%20VCP-607078?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-MCSA%202012-0078D6?&style=for-the-badge" />
 </div>
-
-
-<a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
