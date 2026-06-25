@@ -1,4 +1,4 @@
-# Hello, I'm Justin Jude Fernandes
+# Hello, I'm Justin Fernandes
 
 I am an IT and Cybersecurity professional with over 15 years of experience, including 10 years in Infrastructure and 5 years in Information Security. Currently working within a Security Operations Center (SOC), I am passionate about threat detection, incident response, security monitoring, and continuous learning in the cybersecurity domain. My infrastructure background provides a strong understanding of enterprise environments, networking, servers, and system administration, allowing me to approach security investigations with both operational and defensive perspectives.
 
