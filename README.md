@@ -68,12 +68,6 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
     <img src="https://img.shields.io/badge/-Incident%20Response-D32F2F?&style=for-the-badge&logoColor=white" />
 </div>
 
-### AI-Powered Solutions
-<div>
-    <img src="https://img.shields.io/badge/-AI%20Phishing%20Campaign%20Simulation-6A1B9A?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AI%20Interviewing%20Candidates%20Solution-00897B?&style=for-the-badge&logoColor=white" />
-</div>
-
 ### Privileged Access Management
 <div>
     <img src="https://img.shields.io/badge/-ARCON%20PAM-6D4C41?&style=for-the-badge&logoColor=white" />
