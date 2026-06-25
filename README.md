@@ -16,7 +16,6 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 | Phishing-Led Multi-Stage Attack Simulation and End-to-End SOC Investigation        | <a href="https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation/blob/main/README.md/">View Project</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Microsoft Security Stack
 <div>
@@ -27,10 +26,11 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
     <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-4A148C?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-### Endpoint
+### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LogRhythm-1E4E8C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-005FB8?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### SIEM
