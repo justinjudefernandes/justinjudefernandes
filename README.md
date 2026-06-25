@@ -5,9 +5,9 @@ I am an IT and Cybersecurity professional with over 15 years of experience, incl
 ## Objective
 To strengthen expertise in Security Operations and Detection Engineering by actively building and refining real-world defensive security capabilities. Focused on translating research and threat intelligence into practical detections, automation, and incident response improvements, while contributing actionable insights and hands-on work to the cybersecurity community.
 
-## Skills
+## Projects
 
-| Projects                                         | Associated Project         |
+| Project Title                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">Explore Project</a>|
 | Email Security & Phishing Analysis in Microsoft Defender          | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">Explore Project</a>|
