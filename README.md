@@ -38,15 +38,6 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
     <img src="https://img.shields.io/badge/-Palo%20Alto%20Cortex%20XSOAR-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
     
    
-<img src="https://img.shields.io/badge/-Palo%20Alto%20Cortex%20SOAR-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Tenable-00ADEF?&style=for-the-badge&logo=tenable&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Trellix-FF5A00?&style=for-the-badge&logo=trellix&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Cybereason-4B0082?&style=for-the-badge&logo=cybereason&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Carbon%20Black-00A86B?&style=for-the-badge&logo=vmware&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-LinkShadow-6A1B9A?&style=for-the-badge&logo=shield&logoColor=white" />
 
@@ -56,6 +47,13 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Tenable%20Nessus-00ADEF?&style=for-the-badge&logo=tenable&logoColor=white" />
+</div>
+
+### Endpoint Security (EPP/EDR)
+<div>
+    <img src="https://img.shields.io/badge/-Trellix-FF5A00?&style=for-the-badge&logo=trellix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Carbon%20Black-00A86B?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybereason-4B0082?&style=for-the-badge&logo=cybereason&logoColor=white" />
 </div>
 
 ### Adversarial Exposure Validation
