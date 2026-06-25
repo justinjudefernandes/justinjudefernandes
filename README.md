@@ -47,18 +47,18 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 <div>
     <img src="https://img.shields.io/badge/-Trellix-FF5A00?&style=for-the-badge&logo=trellix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Carbon%20Black-00A86B?&style=for-the-badge&logo=vmware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybereason-4B0082?&style=for-the-badge&logo=cybereason&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybereason-00897B?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Network Security (NDR)
 <div>
-    <img src="https://img.shields.io/badge/-LinkShadow-6A1B9A?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkShadow-3949AB?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-ExtraHop-FF6F00?&style=for-the-badge&logo=extrahop&logoColor=white" />
 </div> 
 
 ### Adversarial Exposure Validation
 <div>
-    <img src="https://img.shields.io/badge/-Pentera-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pentera-C62828?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
