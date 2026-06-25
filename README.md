@@ -3,7 +3,7 @@
 I am an IT and Cybersecurity professional with over 15 years of experience, including 10 years in Infrastructure and 5 years in Information Security. Currently working within a Security Operations Center (SOC), I am passionate about threat detection, incident response, security monitoring, and continuous learning in the cybersecurity domain. My infrastructure background provides a strong understanding of enterprise environments, networking, servers, and system administration, allowing me to approach security investigations with both operational and defensive perspectives.
 
 ## Objective
-To strengthen expertise in Security Operations and Detection Engineering by actively building and refining real-world defensive security capabilities. Focused on translating research and threat intelligence into practical detections, automation, and incident response improvements, while contributing actionable insights and hands-on work to the cybersecurity community
+To strengthen expertise in Security Operations and Detection Engineering by actively building and refining real-world defensive security capabilities. Focused on translating research and threat intelligence into practical detections, automation, and incident response improvements, while contributing actionable insights and hands-on work to the cybersecurity community.
 
 ## Skills
 
