@@ -63,8 +63,8 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 
 ### AI-Powered Solutions
 <div>
-    <img src="https://img.shields.io/badge/-AI%20Phishing%20Simulation-6A1B9A?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AI%20Interview%20System-00897B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AI%20Phishing%20Campaign%20Simulation-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AI%20Interviewing%20Candidates%20Solution-00897B?&style=for-the-badge&logoColor=white" />
 </div>
 
 
