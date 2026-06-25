@@ -53,6 +53,16 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 <img src="https://img.shields.io/badge/-ExtraHop-FF6F00?&style=for-the-badge&logo=extrahop&logoColor=white" />
 </div>
 
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus-00ADEF?&style=for-the-badge&logo=tenable&logoColor=white" />
+</div>
+
+### Adversarial Exposure Validation
+<div>
+    <img src="https://img.shields.io/badge/-Pentera-6A1B9A?&style=for-the-badge&logoColor=white" />
+</div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
