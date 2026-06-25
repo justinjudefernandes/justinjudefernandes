@@ -1,6 +1,6 @@
 # Hello, I'm Justin Jude Fernandes
-<a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## About Me!
 I am an IT and Cybersecurity professional with over 15 years of experience, including 10 years in Infrastructure and 5 years in Information Security. Currently working within a Security Operations Center (SOC), I am passionate about threat detection, incident response, security monitoring, and continuous learning in the cybersecurity domain. My infrastructure background provides a strong understanding of enterprise environments, networking, servers, and system administration, allowing me to approach security investigations with both operational and defensive perspectives.
 
 ## Objective
@@ -89,6 +89,8 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+
+<a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Projects
 - <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">SOC Threat Hunting with Microsoft Sentinel</a>|
