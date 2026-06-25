@@ -61,6 +61,13 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
     <img src="https://img.shields.io/badge/-Pentera-C62828?&style=for-the-badge&logoColor=white" />
 </div>
 
+### AI-Powered Solutions
+<div>
+    <img src="https://img.shields.io/badge/-AI%20Phishing%20Simulation-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AI%20Interview%20System-00897B?&style=for-the-badge&logoColor=white" />
+</div>
+
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
