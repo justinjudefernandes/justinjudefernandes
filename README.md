@@ -67,6 +67,10 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
     <img src="https://img.shields.io/badge/-AI%20Interviewing%20Candidates%20Solution-00897B?&style=for-the-badge&logoColor=white" />
 </div>
 
+### Privileged Access Management
+<div>
+    <img src="https://img.shields.io/badge/-ARCON%20PAM-6D4C41?&style=for-the-badge&logoColor=white" />
+</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
