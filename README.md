@@ -61,6 +61,14 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
     <img src="https://img.shields.io/badge/-Pentera-C62828?&style=for-the-badge&logoColor=white" />
 </div>
 
+### Frameworks & Threat Hunting
+<div>
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF8C00?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-0D47A1?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Threat%20Hunting-4CAF50?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Incident%20Response-D32F2F?&style=for-the-badge&logoColor=white" />
+</div>
+
 ### AI-Powered Solutions
 <div>
     <img src="https://img.shields.io/badge/-AI%20Phishing%20Campaign%20Simulation-6A1B9A?&style=for-the-badge&logoColor=white" />
@@ -70,14 +78,6 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 ### Privileged Access Management
 <div>
     <img src="https://img.shields.io/badge/-ARCON%20PAM-6D4C41?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Frameworks & Threat Hunting
-<div>
-    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-B71C1C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Threat%20Hunting-4CAF50?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Incident%20Response-D32F2F?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
