@@ -36,12 +36,6 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 ### SOAR
 <div>
     <img src="https://img.shields.io/badge/-Palo%20Alto%20Cortex%20XSOAR-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-    
-   
-
-<img src="https://img.shields.io/badge/-LinkShadow-6A1B9A?&style=for-the-badge&logo=shield&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-ExtraHop-FF6F00?&style=for-the-badge&logo=extrahop&logoColor=white" />
 </div>
 
 ### Vulnerability Management
@@ -55,6 +49,12 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
     <img src="https://img.shields.io/badge/-Carbon%20Black-00A86B?&style=for-the-badge&logo=vmware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cybereason-4B0082?&style=for-the-badge&logo=cybereason&logoColor=white" />
 </div>
+
+### Network Security (NDR)
+<div>
+    <img src="https://img.shields.io/badge/-LinkShadow-6A1B9A?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExtraHop-FF6F00?&style=for-the-badge&logo=extrahop&logoColor=white" />
+</div> 
 
 ### Adversarial Exposure Validation
 <div>
