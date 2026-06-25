@@ -13,6 +13,7 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
 | SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
 | Email Security & Phishing Analysis in Microsoft Defender          | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">View Project</a>|
 | Attack Emulation and SOC Investigation Using Microsoft Security Tools         | <a href="https://github.com/justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools/">View Project</a>|
+| Phishing-Led Multi-Stage Attack Simulation and End-to-End SOC Investigation        | <a href="https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation/blob/main/README.md/">View Project</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
