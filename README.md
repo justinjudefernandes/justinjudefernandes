@@ -80,16 +80,16 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CISSP-2E7D32?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-CISA-1565C0?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SOC%20Analyst-6A1B9A?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Network%20Defender-00897B?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-AWS%20SAA-FF9900?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Azure%20Admin-0078D4?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-VMware%20VCP-607078?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-MCSA%202012-0078D6?&style=for-the-badge" />
 </div>
 
 <a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Projects
-- <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">SOC Threat Hunting with Microsoft Sentinel</a>|
