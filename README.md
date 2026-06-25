@@ -7,7 +7,7 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 
 ## Projects
 
-| Project Title                                         | Associated Project         |
+|Project Title                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">Explore Project</a>|
 | Email Security & Phishing Analysis in Microsoft Defender          | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">Explore Project</a>|
