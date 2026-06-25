@@ -36,6 +36,21 @@ To continuously develop my expertise in Security Operations, Threat Hunting, Det
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LogRhythm-1E4E8C?&style=for-the-badge&logo=logrhythm&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Palo%20Alto%20Cortex%20SOAR-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Tenable-00ADEF?&style=for-the-badge&logo=tenable&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Trellix-FF5A00?&style=for-the-badge&logo=trellix&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Cybereason-4B0082?&style=for-the-badge&logo=cybereason&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Carbon%20Black-00A86B?&style=for-the-badge&logo=vmware&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-LinkShadow-6A1B9A?&style=for-the-badge&logo=shield&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-ExtraHop-FF6F00?&style=for-the-badge&logo=extrahop&logoColor=white" />
 </div>
 
 ## Certifications
