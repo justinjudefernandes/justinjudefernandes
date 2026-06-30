@@ -10,7 +10,7 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 | Cybersecurity Tools & Platforms                      | View      |
 |-----------------------------------------------|----------------------------|
 | Microsoft Security Stack  | <a href="https://github.com/justinjudefernandes/Microsoft-Security-Stack/blob/main/README.md/">Open Project</a>|
-| Splunk SIEM Fundamentals & Security Monitoring  | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">Open Project</a>|
+| Splunk SIEM Fundamentals & Security Monitoring  | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">Open Project</a>|
 
 ## Tools
 
