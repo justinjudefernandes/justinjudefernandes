@@ -5,7 +5,7 @@ I am an IT and Cybersecurity professional with over 15 years of experience, incl
 ## Objective
 To strengthen expertise in Security Operations and Detection Engineering by actively building and refining real-world defensive security capabilities. Focused on translating research and threat intelligence into practical detections, automation, and incident response improvements, while contributing actionable insights and hands-on work to the cybersecurity community.
 
-## Projects
+## Cybersecurity Portfolio
 
 | Cybersecurity Tools & Platforms                      | View      |
 |-----------------------------------------------|----------------------------|
