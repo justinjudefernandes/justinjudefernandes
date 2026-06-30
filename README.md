@@ -7,9 +7,8 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 
 ## Projects
 
-| Project Title                      | Project Link        |
+| Cybersecurity Tools & Platforms                      | View      |
 |-----------------------------------------------|----------------------------|
-| Cybersecurity Tools & Platforms  | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
 | Microsoft Security Stack  | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
 | Splunk SIEM Fundamentals & Security Monitoring  | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
 | SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
