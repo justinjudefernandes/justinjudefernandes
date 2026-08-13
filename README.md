@@ -1,9 +1,9 @@
 # Hello, I'm Justin Fernandes                <a href="https://linkedin.com/in/justinjudefernandes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT and Cybersecurity professional with over 15 years of experience, including 10 years in Infrastructure and 5 years in Information Security. Currently working within a Security Operations Center (SOC), I am passionate about threat detection, incident response, security monitoring, and continuous learning in the cybersecurity domain. My infrastructure background provides a strong understanding of enterprise environments, networking, servers, and system administration, allowing me to approach security investigations with both operational and defensive perspectives.
+I am an IT and Cybersecurity professional with over 15 years of experience spanning enterprise infrastructure, security operations, and information security. My background includes approximately 10 years in Infrastructure and 5+ years in Information Security, with current experience in Security Operations. I specialize in security monitoring, threat detection, incident investigation, detection engineering, and incident response, supported by a strong foundation in enterprise networking, systems, and infrastructure operations.
 
 ## 🎯 Objective
-To strengthen expertise in Security Operations and Detection Engineering by actively building and refining real-world defensive security capabilities. Focused on translating research and threat intelligence into practical detections, automation, and incident response improvements, while contributing actionable insights and hands-on work to the cybersecurity community.
+To demonstrate and continuously expand security operations and detection engineering capabilities through the implementation of SIEM, XDR, threat detection, threat hunting, incident investigation, automation, and incident response workflows. The portfolio documents practical security implementations, investigations, detections, and automation designed to reflect real-world SOC operations.
 
 ## 🛡️ Cybersecurity Portfolio
 
