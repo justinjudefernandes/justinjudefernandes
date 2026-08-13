@@ -11,7 +11,7 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 |---:|---|---|
 | 1 | Microsoft Security Stack | <a href="https://github.com/justinjudefernandes/Microsoft-Security-Stack/blob/main/README.md/">Open Project</a> |
 | 2 | Splunk Enterprise Security Portfolio | <a href="https://github.com/justinjudefernandes/Splunk-Enterprise-Security-Portfolio/blob/main/README.md/">Open Project</a> |
-| 2 | Building a Wazuh-Powered SOC: From Deployment to Automated Incident Response | <a href="https://github.com/justinjudefernandes/Building-a-Wazuh-Powered-SOC-From-Deployment-to-Automated-Incident-Response/">Open Project</a> |
+| 2 | Building a Wazuh-Powered SOC: From Deployment to Automated Incident Response | <a href="https://github.com/justinjudefernandes/Building-a-Wazuh-Powered-SOC-From-Deployment-to-Automated-Incident-Response/blob/main/README.md//">Open Project</a> |
 
 ## 🧰 Tools
 
