@@ -15,9 +15,7 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 
 ## 🛡️ Cybersecurity Portfolio
 
-> **📌 Portfolio Sequence:** The portfolio is arranged to showcase hands-on experience across leading cybersecurity platforms, progressing from the Microsoft Security ecosystem to enterprise SIEM and Wazuh-powered security operations with automated incident response.
-
-| **<font size="4">S.No</font>** | **<font size="4">Cybersecurity Tools & Platforms</font>** | **<font size="4">View</font>** |
+| **<font size="6">S.No</font>** | **<font size="6">Cybersecurity Tools & Platforms</font>** | **<font size="6">View</font>** |
 |---:|---|---|
 | 1 | Microsoft Security Stack | <a href="https://github.com/justinjudefernandes/Microsoft-Security-Stack/blob/main/README.md/">Open Project</a> |
 | 2 | Splunk Enterprise Security Portfolio | <a href="https://github.com/justinjudefernandes/Splunk-Enterprise-Security-Portfolio/blob/main/README.md/">Open Project</a> |
