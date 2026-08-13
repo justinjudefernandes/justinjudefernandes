@@ -2,7 +2,7 @@
 
 I am an IT and Cybersecurity professional with over 15 years of experience, including 10 years in Infrastructure and 5 years in Information Security. Currently working within a Security Operations Center (SOC), I am passionate about threat detection, incident response, security monitoring, and continuous learning in the cybersecurity domain. My infrastructure background provides a strong understanding of enterprise environments, networking, servers, and system administration, allowing me to approach security investigations with both operational and defensive perspectives.
 
-🎯 ## Objective
+## 🎯 Objective
 To strengthen expertise in Security Operations and Detection Engineering by actively building and refining real-world defensive security capabilities. Focused on translating research and threat intelligence into practical detections, automation, and incident response improvements, while contributing actionable insights and hands-on work to the cybersecurity community.
 
 ## 🛡️ Cybersecurity Portfolio
@@ -13,7 +13,7 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 | 2 | Splunk Enterprise Security Portfolio | <a href="https://github.com/justinjudefernandes/Splunk-Enterprise-Security-Portfolio/blob/main/README.md/">Open Project</a> |
 | 2 | Building a Wazuh-Powered SOC: From Deployment to Automated Incident Response | <a href="https://github.com/justinjudefernandes/Building-a-Wazuh-Powered-SOC-From-Deployment-to-Automated-Incident-Response/">Open Project</a> |
 
-🧰 ## Tools
+## 🧰 Tools
 
 ### Microsoft Security Stack
 <div>
@@ -72,7 +72,7 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
     <img src="https://img.shields.io/badge/-ARCON%20PAM-6D4C41?&style=for-the-badge&logoColor=white" />
 </div>
 
-🏆 ## Certifications
+## 🏆 Certifications
 <div>
     <img src="https://img.shields.io/badge/-CISSP-2E7D32?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-CISA-1565C0?&style=for-the-badge" />
