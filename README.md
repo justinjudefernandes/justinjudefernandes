@@ -76,45 +76,45 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 
 ### Microsoft Security Stack
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-B71C1C?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-1B5E20?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Defender%20for%20Office%20365-E65100?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Intune-0D47A1?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-4A148C?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Defender%20for%20Office%20365-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Intune-7FBA00?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-5E5CE6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-3B82F6?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LogRhythm-1E4E8C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1E88E5?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LogRhythm-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-00897B?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
 ### SOAR & Security Automation
 <div>
-    <img src="https://img.shields.io/badge/-Palo%20Alto%20Cortex%20XSOAR-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tines-111111?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh%20Active%20Response-3B82F6?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo%20Alto%20Cortex%20XSOAR-F4511E?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tines-263238?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh%20Active%20Response-3949AB?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Tenable%20Nessus-00ADEF?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus-00AEEF?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
 ### Endpoint Security (EPP/EDR)
 <div>
-    <img src="https://img.shields.io/badge/-Trellix-FF5A00?&style=for-the-badge&logo=trellix&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Carbon%20Black-00A86B?&style=for-the-badge&logo=vmware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybereason-00897B?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Trellix-E85D04?&style=for-the-badge&logo=trellix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Carbon%20Black-00897B?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybereason-8E24AA?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-795548?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### Network Security (NDR)
 <div>
     <img src="https://img.shields.io/badge/-LinkShadow-3949AB?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ExtraHop-FF6F00?&style=for-the-badge&logo=extrahop&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExtraHop-F57C00?&style=for-the-badge&logo=extrahop&logoColor=white" />
 </div>
 
 ### Adversarial Exposure Validation
@@ -124,15 +124,15 @@ To strengthen expertise in Security Operations and Detection Engineering by acti
 
 ### Frameworks & Threat Hunting
 <div>
-    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF8C00?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-0D47A1?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Threat%20Hunting-4CAF50?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Incident%20Response-D32F2F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF6F00?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-6C63FF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Threat%20Hunting-2E7D32?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Incident%20Response-AD1457?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Privileged Access Management
 <div>
-    <img src="https://img.shields.io/badge/-ARCON%20PAM-6D4C41?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ARCON%20PAM-455A64?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## 🏆 Certifications
