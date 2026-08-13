@@ -5,16 +5,7 @@ I am an IT and Cybersecurity professional with over 15 years of experience, incl
 ## Objective
 To strengthen expertise in Security Operations and Detection Engineering by actively building and refining real-world defensive security capabilities. Focused on translating research and threat intelligence into practical detections, automation, and incident response improvements, while contributing actionable insights and hands-on work to the cybersecurity community.
 
-## Cybersecurity Portfolio
-
-| Cybersecurity Tools & Platforms                      | View      |
-|-----------------------------------------------|----------------------------|
-| Microsoft Security Stack  | <a href="https://github.com/justinjudefernandes/Microsoft-Security-Stack/blob/main/README.md/">Open Project</a>|
-| Splunk Enterprise Security Portfolio  | <a href="https://github.com/justinjudefernandes/Splunk-Enterprise-Security-Portfolio/blob/main/README.md/">Open Project</a>|
-
 ## 🛡️ Cybersecurity Portfolio
-
-> **📌 Portfolio Sequence:** The portfolio is arranged to showcase hands-on experience across leading cybersecurity platforms, progressing from the Microsoft Security ecosystem to enterprise SIEM and security operations with Splunk.
 
 | **S.No** | **Cybersecurity Tools & Platforms** | **View** |
 |---:|---|---|
