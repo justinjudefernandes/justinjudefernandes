@@ -3,7 +3,7 @@
 I am an IT and Cybersecurity professional with over 15 years of experience spanning enterprise infrastructure, security operations, and information security. My background includes approximately 10 years in Infrastructure and 5+ years in Information Security, with current experience in Security Operations. I specialize in security monitoring, threat detection, incident investigation, detection engineering, and incident response, supported by a strong foundation in enterprise networking, systems, and infrastructure operations.
 
 ## 🎯 Objective
-To demonstrate and continuously expand security operations and detection engineering capabilities through the implementation of SIEM, XDR, threat detection, threat hunting, incident investigation, automation, and incident response workflows. The portfolio documents practical security implementations, investigations, detections, and automation designed to reflect real-world SOC operations.
+To demonstrate practical cybersecurity operations and engineering capabilities through the deployment, configuration, and integration of enterprise security platforms across SIEM, XDR, endpoint and network security, vulnerability management, threat detection, threat hunting, adversarial exposure validation, privileged access management, security awareness, automation, and incident response. The portfolio showcases hands-on security implementations, detection engineering, threat investigations, security monitoring, automated remediation, phishing simulation, and AI-assisted development aligned with real-world SOC operations and modern cybersecurity practices.
 
 ## 🛡️ Cybersecurity Portfolio
 
