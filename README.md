@@ -77,6 +77,52 @@ To demonstrate and continuously expand security operations and detection enginee
     <img src="https://img.shields.io/badge/-ARCON%20PAM-455A64?&style=for-the-badge&logoColor=white" />
 </div>
 
+### Security Awareness & Phishing
+<div>
+    <img src="https://img.shields.io/badge/-CyberLure%20Phishing%20Simulation-1565C0?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Phishing%20Awareness-8E24AA?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Awareness-D84315?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Social%20Engineering-6D4C41?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Human Risk & Behavioral Analytics
+<div>
+    <img src="https://img.shields.io/badge/-Human%20Risk%20Analytics-00838F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Behavioral%20Analytics-2E7D32?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Risk%20Scoring-F9A825?&style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Security%20Metrics-5E35B1?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Security Training & Compliance
+<div>
+    <img src="https://img.shields.io/badge/-Mandatory%20Training-1976D2?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Training-AD1457?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Awareness%20Training-00796B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Gamification-EF6C00?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Security Automation & Remediation
+<div>
+    <img src="https://img.shields.io/badge/-Automated%20Remediation-C62828?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Training%20Workflows-4527A0?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Campaign%20Automation-00695C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Behavioral%20Tracking-BF360C?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Security & Privacy
+<div>
+    <img src="https://img.shields.io/badge/-Offline%20%2F%20Air--Gapped-263238?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Self--Hosted-37474F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Signed%20Tracking%20Tokens-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Data%20Privacy-388E3C?&style=for-the-badge&logoColor=white" />
+</div>
+
+### AI-Assisted Development
+<div>
+    <img src="https://img.shields.io/badge/-Anthropic%20Claude-D97757?&style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Offline%20AI%20Fallback-8D6E63?&style=for-the-badge&logoColor=white" />
+</div>
+
 ## 🏆 Certifications
 <div>
     <img src="https://img.shields.io/badge/-CISSP-2E7D32?&style=for-the-badge" />
